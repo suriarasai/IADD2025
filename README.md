@@ -17,3 +17,15 @@ Learning Objectives
 * Critically evaluate and select appropriate database technologies and tools based on clearly defined business and technical requirements.
 * Identify and implement necessary data wrangling techniques for specific analytical models.
 * Conduct threat modeling and implement security controls to safeguard data assets, ensuring compliance with enterprise data governance policies, standards, and relevant regulations.
+
+## Dataset
+
+The `dataset` subfolder contains a sample dataset file named `sample_dataset.csv`. This file includes sample data in CSV format with appropriate headers.
+
+### Using the Sample Dataset
+
+To use the sample dataset, follow these steps:
+
+1. Navigate to the `dataset` subfolder.
+2. Open the `sample_dataset.csv` file using a spreadsheet application or a text editor.
+3. Analyze the data as needed for your project or coursework.
